@@ -16,12 +16,16 @@ The user is prompted the id and quantity of the item they'd like to order. If th
 
 The manager portal can only be accessed with a password (which is conveniently password for this application!). If the proper word is not inputted after the command and filename, user is denied access. Once logged in, the manager is given a prompt that displays options.
 
-![manager](/manager.png)
+![manager](./media/manager.png)
 
 Here you can see the 'View Low Inventory' and 'Add to Inventory' functions.
+
 ![stock](./media/limitedquantity.png)
+
 ![inventory](./media/buyinventory.png)
 
 Finally, as user manager has the ability to add new products.
+
 ![product](./media/newproduct.png)
+
 
