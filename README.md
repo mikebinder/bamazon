@@ -20,8 +20,8 @@ The manager portal can only be accessed with a password (which is conveniently p
 
 Here you can see the 'View Low Inventory' and 'Add to Inventory' functions.
 ![stock](./media/limitedquantity.png)
-![inv](./media/buyinventory.png)
+![inventory](./media/buyinventory.png)
 
 Finally, as user manager has the ability to add new products.
-![tweets](./media/newproduct.png)
+![product](./media/newproduct.png)
 
