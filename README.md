@@ -24,7 +24,7 @@ Here you can see the 'View Low Inventory' and 'Add to Inventory' functions.
 
 ![inventory](./media/buyinventory.png)
 
-Finally, as user manager has the ability to add new products.
+Finally, as manager the user has the ability to add new products.
 
 ![product](./media/newproduct.png)
 
