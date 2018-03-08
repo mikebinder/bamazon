@@ -28,4 +28,15 @@ Finally, as user manager has the ability to add new products.
 
 ![product](./media/newproduct.png)
 
+## Technologies Used
+
+* Javascript
+* nodeJS
+* Sequel Pro
+### npm packages:
+* mysql
+* inquirer
+* cli-table
+
+
 
