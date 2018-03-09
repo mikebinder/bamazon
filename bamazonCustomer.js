@@ -75,7 +75,8 @@ function displayTable() {
                     }
                     else {
                         console.log("Thank you for your purchase! Your total is" + " " + "$" + answer.quantity * res[0].price + "!  Hopefully your items arrive before the Hale Bopp Comet!");
-
+//connection.query("UPDATE products SET stock_quantity='" + (results[id].stock_quantity - answer.quantity) + "'WHERE item_id='" + answerID + "'", function (err, results2) {
+                  //console.log("Congratulations you successfully completed your purchase.");
                         displayTable();
 
                     }
